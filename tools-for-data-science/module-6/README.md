@@ -1,0 +1,1 @@
+The Jupyter notebook and the screenshots required for the peer-graded assignment of module 6 are included in this folder.
